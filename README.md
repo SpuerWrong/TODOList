@@ -51,7 +51,7 @@ Visual Studio 2019/2022
 步骤 | Steps
 克隆仓库 | Clone the repository:
 ```bash
-git clone https://github.com/your-username/TODOList.git
+git clone https://github.com/SpuerWrong/TODOList
 ```
 打开项目 | Open the project: 在Visual Studio中打开项目文件（.sln）。
 Open the .sln file in Visual Studio.
